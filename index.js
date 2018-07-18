@@ -8,4 +8,7 @@ function shout (string)   {
     return string.toLowerCase()
   }
   
-  function 
+  function logShout (string)   {
+    console.log ("Shout")
+    "Shout".toUpperCase()
+  }
