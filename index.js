@@ -9,6 +9,6 @@ function shout (string)   {
   }
   
   function logShout (string)   {
-    console.log ("Shout")
-    "Shout".toUpperCase()
+    console.log ("Hello")
+    "Hello".toUpperCase()
   }
